@@ -12,3 +12,4 @@ C:\Programming\C#\AdventOfCode\obj\Debug\net10.0\refint\AdventOfCode.dll
 C:\Programming\C#\AdventOfCode\obj\Debug\net10.0\AdventOfCode.pdb
 C:\Programming\C#\AdventOfCode\obj\Debug\net10.0\AdventOfCode.genruntimeconfig.cache
 C:\Programming\C#\AdventOfCode\obj\Debug\net10.0\ref\AdventOfCode.dll
+C:\Programming\C#\AdventOfCode\obj\Debug\net10.0\AdventOfCode.sourcelink.json
